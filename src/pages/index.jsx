@@ -1,11 +1,12 @@
-import React from 'react'
+/** @jsx jsx */
+import { jsx } from 'theme-ui'
 
 const index = () => {
-  	return (
-    	<div>
-			<p>Assalamualaikum</p>
-    	</div>
-  	)
+	return (
+		<div>
+			
+		</div>
+	)
 }
 
 export default index
